@@ -92,7 +92,7 @@ Xingamentos, brigas ou ofensas não serão tolerados → sujeito a banimento ou 
 
 A Organização libera com antecedência os mapas que devem ser baixados.
 
-Se o jogador não tiver baixado no horário → sujeito a GOO ou ban.
+Se o jogador não tiver baixado no horário do goo→ sujeito a ban ea partida sera inicializada.
 
 
 
