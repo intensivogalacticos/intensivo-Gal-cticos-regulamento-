@@ -4,115 +4,121 @@
 
 Coach é liberado, desde que grave a tela + áudio.
 
-Caso o coach não grave, o time fica sujeito a pontuação 00 ou diminuição de pontos.
+Caso não grave → sujeito a pontuação 00 ou diminuição de pontos.
 
-
----
-
-📌 ATRASOS E ORGANIZAÇÃO
-
-A Organização não se responsabiliza por atrasos de jogadores.
-
-Jogador que entrar em cima do horário pode ser colocado em equipe aleatória.
-⚠️ ⇝ IMPORTANTE*
-_• Baixem os mapa, caso ao contrário levará ban;_
-_• Não entrem com squad formado na sala pos caso aconteça de remover1 playerpodera ssir todos automaticamente devido ao bug ;_
-_• Pontuação feita pelos slots , então se ficar em slot errado a pontuação será feita errada._
-_• Pedido de banimento em cima da hora será desconsiderado !_
-_• qualquer quebra de regra levará a perca de ponto_
-_• não nos responsabilizamos por queda de net ou imprevistos com players!_
-_• replayer ativado_
-_• proibido entrar em squad fechado na sala._
 ---
 
 📌 SLOTS
 
-Para remover um player do slot, envie no chat: Remoção + Slot + Nick.
+Para remover player do slot, avise no chat: Remoção + Slot + Nick.
 
-Caso o time jogue em slot errado, será aplicado 00 pontos e ainda poderá ser direcionado para outra equipe.
+Caso o time jogue em slot errado → pontuação 00 e ainda pode ser movido para outra equipe.
 
-Para saber o slot, verifique na descrição do grupo e no texto enviado previamente pela organização.
+A pontuação é feita pelos slots → se ficar em slot errado a tabela será calculada errado.
 
-Se uma equipe invadir seu slot, comunique na sala e no PV do ADM responsável.
+Para saber seu slot, verifique a descrição do grupo ou o texto enviado pela organização.
+
+Se uma equipe invadir seu slot, comunique na sala + PV do ADM responsável.
+
+
+---
+
+📌 HORÁRIOS E ATRASOS
+
+Jogador que entrar em cima do horário poderá ser colocado em equipe aleatória.
+
+A Organização não se responsabiliza por atrasos, quedas de internet ou imprevistos dos players.
+
+
+---
+
+📌 MAPAS
+
+Baixem os mapas antecipadamente.
+
+Caso contrário → BAN ou GOO automático.
 
 
 ---
 
 📌 PONTUAÇÃO
 
-A pontuação seguirá o modelo da LBFF 2022:
+Sistema baseado na LBFF 2022:
 
-🥇 1º lugar → 12 pontos
+🥇 1º lugar → 12 pts
 
-🥈 2º lugar → 9 pontos
+🥈 2º lugar → 9 pts
 
-🥉 3º lugar → 8 pontos
+🥉 3º lugar → 8 pts
 
-4º lugar → 7 pontos
+4º lugar → 7 pts
 
-5º lugar → 6 pontos
+5º lugar → 6 pts
 
-6º lugar → 5 pontos
+6º lugar → 5 pts
 
-7º lugar → 4 pontos
+7º lugar → 4 pts
 
-8º lugar → 3 pontos
+8º lugar → 3 pts
 
-9º lugar → 2 pontos
+9º lugar → 2 pts
 
-10º lugar → 1 ponto
+10º lugar → 1 pt
 
-11º ao 12º lugar → 0 pontos
+11º ao 12º lugar → 0 pts
 
 Cada abate = +1 ponto
 
 
 ---
 
-📌 CAÇAS E MECÂNICAS DO JOGO
+📌 REGRAS DE JOGO
 
 São permitidos todos os recursos do jogo:
 
-Todas as armas (A – Z);
+Armas A – Z,
 
-Atropelamentos;
+Atropelamentos,
 
 Estratégias diversas.
 
 
-O que é proibido:
+Proibido:
 
-Hacks, bugs, regedits ou qualquer meio ilícito.
+Hacks, bugs, regedits ou qualquer método ilícito.
+
+
+Replay ativado.
+
 
 ---
 
 📌 CHAT
 
-O chat do grupo é apenas para:
+O chat é exclusivo para informações:
 
-Informações necessárias (horários, remoções, comunicações oficiais).
-
-
-Xingamentos, brigas ou ofensas não serão tolerados → sujeito a banimento ou perda de pontos na tabela geral.
+Horários, GOO, remoções e comunicações oficiais.
 
 
-📌 MAPAS
+Proibido xingamentos ou ofensas → sujeito a banimento ou perda de pontos.
 
-A Organização libera com antecedência os mapas que devem ser baixados.
-
-Se o jogador não tiver baixado no horário do goo→ sujeito a ban ea partida sera inicializada.
-
-
-
-📌 OBSERVAÇÕES
-
-Não é obrigatório utilizar TAG de equipe.
-
-Não é obrigatório envio de nomes de players.
-
+Pedidos de banimento em cima da hora serão desconsiderados.
 
 
 ---
 
-💛 Agradecemos a todos pela participação.
-Boa sorte e bom jogo, GUERREIROS GALÁCTICOS! 👽🚀
+📌 OBSERVAÇÕES
+
+Não obrigatório uso de TAG de equipe.
+
+Não obrigatório envio de nomes dos players.
+
+Não entrar com squad fechado na sala → se um player for removido, o time inteiro poderá cair devido a bug.
+
+Qualquer quebra de regra = perda de pontos.
+
+
+---
+
+💛 Agradecemos pela preferência.
+Boa sorte e bom jogo, GUERREIROS GALÁCTICOS! 👽✨🚀
