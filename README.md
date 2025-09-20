@@ -14,7 +14,15 @@ Caso o coach não grave, o time fica sujeito a pontuação 00 ou diminuição de
 A Organização não se responsabiliza por atrasos de jogadores.
 
 Jogador que entrar em cima do horário pode ser colocado em equipe aleatória.
-
+⚠️ ⇝ IMPORTANTE*
+_• Baixem os mapa, caso ao contrário levará ban;_
+_• Não entrem com squad formado na sala pos caso aconteça de remover1 playerpodera ssir todos automaticamente devido ao bug ;_
+_• Pontuação feita pelos slots , então se ficar em slot errado a pontuação será feita errada._
+_• Pedido de banimento em cima da hora será desconsiderado !_
+_• qualquer quebra de regra levará a perca de ponto_
+_• não nos responsabilizamos por queda de net ou imprevistos com players!_
+_• replayer ativado_
+_• proibido entrar em squad fechado na sala._
 ---
 
 📌 SLOTS
